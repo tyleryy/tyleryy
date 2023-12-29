@@ -9,9 +9,9 @@ I am a...
 ---
 ### My Links
 
-🧊 Check out my here  -->  [Portfolio/Personal Website](https://read.cv/taiyu )  
-💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/tyler-yu-13928b1b1/)  
-💌 Send me a message at my [Email](tyler.y.yu@gmail.com)  
+🧊 Check out my [Portfolio/Personal Website](https://read.cv/taiyu )  🔗  
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/tyler-yu-13928b1b1/)   🔗  
+💌 Send me a message at my [Email](tyler.y.yu@gmail.com)   🔗  
 
 
 
