@@ -11,7 +11,7 @@ I am a...
 
 🧊 Check out my [Portfolio/Personal Website](https://read.cv/taiyu )  🔗  
 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/tyler-yu-13928b1b1/)   🔗  
-💌 Send me a message at my [Email](tyler.y.yu@gmail.com)   🔗  
+💌 Feel free to contact me at my [Email](tyler.y.yu@gmail.com)   🔗  
 
 
 
