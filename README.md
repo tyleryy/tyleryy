@@ -2,7 +2,7 @@
 
 I am a...
 - 🧑‍🎓 Computer Science student at UCI
-- 💻 Prev. Applications Developer @ Pacific Life Insurance Co.
+- 💻 Prev. Applications Developer at Pacific Life Insurance Co.
 - 🚀 Software Developer for [Hack at UCI](https://hack.ics.uci.edu/) and [ICSSC](https://studentcouncil.ics.uci.edu/)
 - 🎥 Big movie, anime, and TV show enthusiast (my favorites are The Grand Budapest Hotel 🏨, Cyberpunk Edgerunners 🔫, and Jujutsu Kaisen 🥋)
 
