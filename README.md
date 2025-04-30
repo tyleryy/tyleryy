@@ -1,22 +1,21 @@
-### Hi, it's Tyler 👋
+### Hi, I'm Tyler 👋
 
-I am a...
-- 🧑‍🎓 Computer Science student at UCI
-- 💻 Prev. Applications Developer at Pacific Life Insurance Co.
-- 🚀 Software Developer for [Hack at UCI](https://hack.ics.uci.edu/) and [ICSSC](https://studentcouncil.ics.uci.edu/)
-- 🎥 Big movie, anime, and TV show enthusiast (my favorites are The Grand Budapest Hotel 🏨, Cyberpunk Edgerunners 🔫, and Jujutsu Kaisen 🥋)
+I like to play pickup 🏀, watch movies 🎬, and karaoke with friends and family 🎤
 
 ---
 ### My Links
 
-🧊 Check out my [Portfolio/Personal Website](https://read.cv/taiyu )  🔗  
 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/tyler-yu-13928b1b1/)   🔗  
-💌 Feel free to contact me at my [Email](tyler.y.yu@gmail.com)   🔗  
+
 
 
 
 <!--
 **tyleryy/tyleryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+💌 Feel free to contact me at my [Email](tyler.y.yu@gmail.com)   🔗  
+🧊 Check out my [Portfolio/Personal Website](https://read.cv/taiyu )  🔗  
+
 
 Here are some ideas to get you started:
 
