@@ -2,14 +2,6 @@
 
 I like to play pickup 🏀, watch movies 🎬, and karaoke with friends and family 🎤
 
----
-### My Links
-
-💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/tyler-yu-13928b1b1/)   🔗  
-
-
-
-
 <!--
 **tyleryy/tyleryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
